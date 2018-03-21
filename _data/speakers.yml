@@ -1,0 +1,206 @@
+# Luis Felipe Souza
+- 
+  id: 10
+  name: "Luís Felipe"
+  surname: "Souza"
+  company: "Magnetis"
+  title: ""
+  bio: "Desenvolvedor Front-end desde 2010, hoje trabalha na Magnetis. Gosta de tudo que envolve os produtos digitais, desde UX até o código. É fã de comunidades!"
+  thumbnailUrl: LuisSouza.jpg
+  rockstar: false
+
+# Fred Moreira
+- 
+  id: 11
+  name: "Frederico"
+  surname: "Moreira"
+  company: "Concrete"
+  title: "QA Manager"
+  bio: "QA Manager na Concrete, trabalhou em diversos projetos mobile, web e backend. Criador do meetup Café, teste e pão de queijo, mas também um dos fundadores do MTC. Já foi DJ por hobby, não vive sem uma boa cerveja artesanal, uma pinga e um torresmo. Palestrou em diversos eventos e participou de diversas comunidades."
+  thumbnailUrl: FredMoreira.jpg
+  rockstar: false
+  
+# Wellington Avelino
+- 
+  id: 12
+  name: "Wellington"
+  surname: "Avelino"
+  company: "Concrete"
+  title: "QA Chapter Leader"
+  bio: "Aproximadamente 5 anos na área de tecnologia, já atuei como desenvolvedor backend e mobile, atualmente atuando como QA na Concrete, sou entusiasta de especificação por exemplo, metodologias ágeis e testes, tenho coragem de colocar a mão desde automação frontend ao backend, sempre pensando nas melhores práticas e nunca deixando de lado a programação. Nas horas vagas não nego uma boa cerveja gelada e jogar conversa fora!"
+  thumbnailUrl: WellingtonAvelino.jpg
+  rockstar: false
+  
+# Diego Moraes
+- 
+  id: 14
+  name: "Diego"
+  surname: "Moraes"
+  company: "Dentro da História"
+  title: "Co-founder & Lead Designer"
+  bio: "Diego Moraes trabalha com produtos a 10 anos. Realizou grandes projetos para: Vivo, Tim, Bradesco, Santander, iFood, Facebook e Apple. Hoje é co-founder da Dentro da História onde coloca em prática o que mais ama fazer, criar produtos e serviços que trazem a felicidade para a vida das pessoas."
+  thumbnailUrl: DiegoMoraes.jpg
+  rockstar: false
+  
+# Danilo Porcelani
+- 
+  id: 15
+  name: "Danilo"
+  surname: "Porcelani"
+  company: "MATERA Systems"
+  title: "Desenvolvedor Web"
+  bio: "Especialista em Eletrônica pela Marinha do Brasil, Bacharel em Ciência da Computação pela Universidade Estadual do Rio de Janeiro e com Especialização de Desenvolvimento Web pela Universidade Estadual de Maringá. Danilo Porcelani é desenvolvedor, entusiasta de métodos ágeis e um grande amante da área de Teste e Qualidade de software."
+  thumbnailUrl: DaniloPorcelani.jpg
+  rockstar: false
+  
+# Fernando Hatada
+- 
+  id: 16
+  name: "Fernando"
+  surname: "Hatada"
+  company: "Youse"
+  title: "QA|Chapter Leader"
+  bio: "Atuo com qualidade de software há 10 anos, hoje faço a gestão do time de qualidade da Youse. Já participei de diversas oportunidades no mercado financeiro e farmacêutico, mas passei a gostar muito de atuar com as empresas que investiam em metodologia ágeis no desenvolvimento de software, como por exemplo, o Walmart.Com e a Youse."
+  thumbnailUrl: FernandoHatada.jpg
+  rockstar: false
+
+# Elias Nogueira
+- 
+  id: 17
+  name: "Elias"
+  surname: "Nogueira"
+  company: "Sicredi"
+  title: "QA Engineer | Agile Coach"
+  bio: "Eu ajudo pessoas e empresas a criar softwares com uma alta qualidade para que eles tenham sempre com maior qualidade do que a concorrência.
+  É QA Engineer e Agile Coach no Sicredi e Professor de Pós Graduação na Unisinos/RS e Univali/SC.
+  Atuante na comunidade de desenvolvimento advoga entre todas as pessoas da área sobre a importância da qualidade e teste de software em grupos locais em diversas regiões. Já ministrou palestras nos principais eventos do Brasil como The Developers Conference, Scrum Gathering, JavaOne, Android DevConf, Campus Party, entre outros.
+  Organiza a Trilha Testes e DevTest do The Developers Conference e é organizador do Agile Coach Meetup Porto Alegre e do GDG Porto Alegre."
+  thumbnailUrl: EliasNogueira.jpg
+  rockstar: true
+
+# Ariane Izac
+- 
+  id: 18
+  name: "Ariane"
+  surname: "Izac"
+  company: "MATERA Systems"
+  title: "Analista de Teste"
+  bio: "Analista de Teste na MATERA Systems há 5 anos. Trabalho com testes de software há mais de 9 anos, com testes manuais, planejamento dos testes em times ágeis, testes automáticos, testes de API's REST e \"apanhando\" de testes de performance. Filha de peixe (jornalista) peixinho sou. Sou blogueira na categoria Tecnologia no blog da MATERA Systems e escrevo para o portal Fábrica de Testes também. E por fim, para não negar minha paixão, tenho um grupo no LinkedIn para reunir assuntos relacionados a testes: Diário de uma paixão: Teste de Software."
+  thumbnailUrl: ArianeIzac.jpg
+  rockstar: true
+
+# Rodrigo Botti
+- 
+  id: 20
+  name: "Rodrigo"
+  surname: "Botti"
+  company: "Nextel"
+  title: "Especialista Back-End"
+  bio: "Formado em Engeharia da Computação na POLI-USP. Já atuou como dev back-end, full-stack e front-end. Atualmente trabalha como desenvolvedor especialista NodeJS, atuando no desenvolvimento, arquitetura e manutenção de um back-end orientado a microserviços e deployado em nuvem."
+  thumbnailUrl: RodrigoBotti.jpg
+  rockstar: false
+
+# Bruno Abreu
+- 
+  id: 21
+  name: "Bruno"
+  surname: "Abreu"
+  company: "Sofist"
+  title: "CEO e One Day Testing"
+  bio: "CEO e fundador da Sofist e One Day Testing. Já participou de mais de 1300 projetos dos mais variados tipos na área de testes e qualidade de software, que produziram mais de 45 mil bugs como resultado. Hoje é responsável pela estratégia de crescimento da empresa e geração de novos negócios. Bruno também é fundador de outros negócios: CPF na Nota, OKNOK e Varejo 360."
+  thumbnailUrl: BrunoAbreu.jpg
+  rockstar: true
+
+# Rafael de Araújo
+- 
+  id: 25
+  name: "Rafael"
+  surname: "de Araújo"
+  company: "Venturus"
+  title: "Desenvolvedor Android Sênior"
+  bio: "Desenvolvedor Android desde 2010, atualmente no Venturus Centro de Inovação Tecnológica como Analista de Desenvolvimento Sênior (Campinas-SP).
+  Trabalhou na arquitetura e estruturação de aplicativos para o mercado de pagamento virtual, entretenimento, consumo de conteúdo, assistente pessoais, entre outros.
+  Participante ativo da comunidade Android do Brasil, participa de eventos nacionais e internacionais e também escreve sobre Android e desenvolvimento mobile.
+  Amante de tecnologia Google e buscando se atualizar sempre com as novidades do universo Android."
+  thumbnailUrl: RafaelDeAraujo.png
+  rockstar: false
+
+# Walter Moscardini
+- 
+  id: 26
+  name: "Walter"
+  surname: "Moscardini"
+  company: "Sensedia"
+  title: "Software engineer"
+  bio: "Graduando no curso de Engenharia de Computação pela Pontifícia Universidade Católica de Campinas, com cerca de dois anos e meio de experiência na área de desenvolvimento, majoritariamente Java, JS, HTML, CSS e Web Services, porém também com alguma experiencia em OpenStack4j, Kinect e, mais recentemente APIs e ROBOT Framework. Atualmente estagiando no time de P&D da Sensedia."
+  thumbnailUrl: WalterMoscardini.jpg
+  rockstar: false
+
+# Claudenir Machado
+- 
+  id: 27
+  name: "Claudenir"
+  surname: "Machado"
+  company: "Sensedia"
+  title: "Software engineer"
+  bio: "Desenvolvedor de software utilizando Java, JavaScript, .NET(C#), Delphi e outras tecnologias ao longo dos últimos 06 anos. Graduado em Ciência da Computação (USC - Bauru/SP), Pós graduado em Desenvolvimento de Software para Web (UFSCar - São Carlos/SP) e matutando um mestrado numa linha de pesquisa ainda não definida."
+  thumbnailUrl: ClaudenirMachado.jpeg
+  rockstar: false
+
+# Andrelise Rafael
+-
+  id: 28
+  name: "Andrelise"
+  surname: "Rafael"
+  company: "Ci&T"
+  title: "Quality Assurance"
+  bio: "Mineira, engenheira, nerd e entusiasta da área de testes de software. Atuo há 5 anos com testes de software e atualmente em metodologias ágeis. Graduada em Engenharia da Computação pelo INATEL e pós graduada em MBA de Engenharia de Software orientada a serviços pela Devry Metrocamp. 
+  Fui palestrante do evento GDG Devfest com palestra sobre testes ágeis. Trabalhei em empresas de tecnologia como Cpqd, Samsung, Dextra e atualmente 'caço' os bugs de software na ci&t. Nas horas vagas coloco o backlog de série em dia e nao dispenso um bão pão de queijo e doce de leite."
+  thumbnailUrl: AndreliseRafael.jpeg
+  rockstar: false
+
+  # Juliana Salgado
+-
+  id: 29
+  name: "Juliana"
+  surname: "Salgado"
+  company: "iFood"
+  title: "Product Owner"
+  bio: "Juliana Salgado é graduada em Sistemas de Informação pela PUC-Campinas. Na graduação teve oportunidade de participar de um projeto de iniciação científica na área de acessibilidade e desde então é embaixadora do tema.
+  Concluiu o curso de especialização em parceria com a Apple, o BEPiD, e foi premiada por três anos consecutivos no WWDC Scholarship, concurso internacional em que 350 pessoas no mundo ao submeter um aplicativo concorrem a um ticket para a conferência anual da Apple.
+  Atualmente é Product Owner no iFood, na empresa foi quem conduziu as iniciativas de acessibilidade e atua no seu dia a dia em um produto impactando a vida de milhões de usuários."
+  thumbnailUrl: JulianaSalgado.jpg
+  rockstar: true
+
+# Rafael Nóbrega
+-
+  id: 30
+  name: "Rafael"
+  surname: "Nóbrega"
+  company: "Inmetrics"
+  title: "Head of Presales and Innovation"
+  bio: "Mestre em Ciência da Computação/UFPE. Trabalho há 10 anos com QA. Hoje sou Head de Pré-vendas e Inovação. Minha missão é guiar nossos clientes na jornada de QA pela Transformação Digital."
+  thumbnailUrl: RafaelNobrega.jpg
+  rockstar: false
+
+# Rodrigo Lemes
+-
+  id: 31
+  name: "Rodrigo"
+  surname: "Lemes"
+  company: "Samsung"
+  title: "Lead Design"
+  bio: "Rodrigo Lemes é líder de design no Instituto SIDI em Campinas, formado na área de comunicação e especialista em gestão do design, possui mais de 20 anos de experiência na área de design. Ministra palestras e workshops voltados para o conhecimento do que é a Experiência do usuário e o posicionamento dos designers dentro de empresas e usa o seu canal no Youtube DesignTeam para reforçar o posicionamento e a importância do pensar em design em empresas"
+  thumbnailUrl: RodrigoLemes.jpg
+  rockstar: false
+
+# Paola Rodrigues
+-
+  id: 32
+  name: "Paola"
+  surname: "Rodrigues"
+  company: "Dextra"
+  title: "Analista de Teste"
+  bio: ""
+  thumbnailUrl: PaolaRodrigues.jpg
+  rockstar: false

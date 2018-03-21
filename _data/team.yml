@@ -1,0 +1,62 @@
+- 
+  id: 0
+  name: "Thaissa"
+  surname: "Candella"
+  title: "Direção Geral (Wonder Woman)"
+  thumbnailUrl: ThaissaCandella.jpeg
+  team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/thaissacandella/"}
+    - {name: "facebook", link: "https://www.facebook.com/thaissa.candella"}
+- 
+  id: 1
+  name: "Henrique"
+  surname: "Candella"
+  title: "Operacional (LeBron James)"
+  thumbnailUrl: HenriqueCandella.jpg
+  team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/henrique-candella-565a93133/"}
+    - {name: "facebook", link: "https://www.facebook.com/profile.php?id=100014317275586"}
+- 
+  id: 2
+  name: "Deyvis"
+  surname: "Ferreira"
+  title: "Curadoria (Morpheus)"
+  thumbnailUrl: DeyvisFerreira.jpg
+  team: true
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/deyvisf/"}
+- 
+  id: 3
+  name: "Rodrigo"
+  surname: "Botti"
+  title: "Website (Tony Stark)"
+  thumbnailUrl: RodrigoBotti.jpeg
+  team: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/rodrigo-botti/"}
+    - {name: "facebook", link: "https://www.facebook.com/rodrigo.botti.9"}    
+- 
+  id: 4
+  name: "Renato"
+  surname: "Freire"
+  title: "Website (Aragorn)"
+  thumbnailUrl: RenatoFreire.jpg
+  team: true
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/renatorfr/"}
+    - {name: "facebook", link: "https://www.facebook.com/renatorfr"}
+- 
+  id: 5
+  name: "Rodrigo"
+  surname: "Cardoso"
+  title: "Apresentador (Pokemao)"
+  thumbnailUrl: RodrigoCardoso.jpg
+  team: true
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/pokemaobr/"}

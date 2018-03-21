@@ -1,0 +1,168 @@
+-
+  id: 101
+  title: "Coffee"
+  service: true
+
+-
+  id: 102
+  title: "Almoço"
+  service: true
+
+-
+  id: 103
+  title: "Apresentação GDG Campinas"
+  service: true
+
+-
+  id: 104
+  title: "Credenciamento"
+  service: true
+
+-
+  id: 999
+  title: "Encerramento e Sorteios"
+  service: true
+
+# Paola Rodrigues
+-
+  id: 105
+  title: "7 dicas para criar testes efetivos"
+  description: "Há muitos anos se fala de testes automatizados, mas parece que o Brasil despertou para isso há pouco tempo. Com esta nova febre, os testers tem dedicado toda sua força em aprender novas linguagens de automação e muitas pessoas passaram a ver a área de testes como uma oportunidade de programar sem ser efetivamente um programador. Isso tem gerado testers mais focados em automatizar do que em gerar testes eficientes. Saiba como melhorar isso com sete dicas simples."
+  subtype: presentation
+  speakers: [32]
+
+# Andrelise Rafael 
+-
+  id: 003
+  title: "BDD: Como quebrar as barreiras de negócios dentro do time"
+  description: "Desenvolvimento orientado por comportamento? Devs e Testers trabalhando juntos com o negócio? Socorro!!! Corram para as montanhas!
+  Calma gente! Não há necessidade de correr para as montanhas. Nesta palestra vou apresentar como o BDD pode quebrar barreiras internas do time com o negócios e todos se sentirem parte importante do projeto."
+  subtype: presentation
+  speakers: [28]
+
+# Ariane Izac
+-
+  id: 004
+  title: "Acredite, você pode agilizar feedbacks aplicando Dev Box Testing"
+  description: "Já imaginou reduzir aquele 'ping-pong' de erros dentro do projeto? Ter feedbacks rápidos e antecipar problemas que poderiam trazer risco para sprint? Imagina você testador como ficará feliz em conseguir seguir o fluxo sem diversas interrupções por bugs que vão e voltam mais que ioiô? Parece mágica mas isso é possível aplicando em poucos minutos de seu dia um dev box testing maroto, testador x desenvolvedor! Ei, você! Já fez dev box testing hoje?"
+  subtype: presentation
+  speakers: [18]
+  
+#  Bruno Abreu
+-
+  id: 005
+  title: "Como testar sob pressão e com grande restrição de tempo"
+  description: "Você já imaginou o que consegue entregar em apenas 1 dia de trabalho? O que fazer para maximizar o resultado? Nesta palestra compartilharei o aprendizado obtido por nosso time após a entrega de mais de 1300 projetos de testes com restrição de prazo extrema. Você irá aprender sobre os atributos mais importantes que permitem ao QA entregar muito valor em tão pouco tempo."
+  subtype: presentation
+  speakers: [21]
+
+#  Danilo Porcelani
+-
+  id: 006
+  title: "Pare de testar em produção e comece a Mockar"
+  description: "Se você é um daqueles que fica fazendo testes em produção, tentando encontrar o porque os erros estão acontecendo e sempre descobre que mesmo quando tudo ta ruim, ainda pode ficar pior, tá na hora de discutirmos mais sobre mocks e infraestrutura imutável. Nesta palestra, abordaremos os conceito, técnicas e ferramentas que podem de forma simples e rápida garantir o correto funcionamento do seu sistema e principalmente facilitar o desenvolvimento de novas funcionalidades."
+  subtype: presentation
+  speakers: [15]
+
+#  Diego Moraes
+-
+  id: 007
+  title: "A qualidade está na casca"
+  description: "Faz alguns anos que venho trabalhando em produtos que trazem a felicidades pra vida das pessoas e quando os times tinham o mindset em que a qualidade está na casca obtivemos os melhores resultados. Se você concorda ou não concorda com isso tudo bem, vamos trocar experiências!"
+  subtype: presentation
+  speakers: [14]
+
+#  Elias Nogueira - Keynote
+-
+  id: 008
+  title: "Mini Keynote: A importância de teste em todos os aspectos"
+  description: "A responsabilidade dos testes não é somente do testador, mas sim de todo o time!
+Mas como sabemos quais aspectos e níveis testar e como fazer todos os membros do time ter a mesma visão referente a qualidade e testes na aplicação?
+Nesta apresentação mostrarei os alguns aspectos que podemos e devemos focar a a interação entre todos os membros do time para caminhar em conjunto rumo a qualidade."
+  subtype: keynote
+  speakers: [17]
+
+#  Fernando Hatada
+-
+  id: 010
+  title: "Case: Youse, Qualidade e Colaboração."
+  description: "A ideia da talk é compartilhar com a galera, como a Youse começou seu processo de qualidade, com muitos e muitos testes manuais e como ela evoluiu em um ano, passando a investir em testes automatizados, deploys mais seguros e com maior velocidade, além de culturalmente trabalhar a corresponsabilidade de entregas de novas features automatizadas junto com os desenvolvedores."
+  subtype: presentation
+  speakers: [16]
+
+#  Fred Moreira e Wellington Avelino
+-
+  id: 011
+  title: "Pirâmide de Testes Mobile, dividindo seus testes de maneira efetiva"
+  description: "Muito se fala sobre automação de testes no mundo mobile, nesta palestra iremos mostrar na prática como dividir seus testes automatizados de um app em níveis diferentes de testes. Mostraremos como sair fora da caixa e não apenas automatizar seus testes no nível de UI, como temos visto com alta frequência no mercado. Parte disso é escrever cenários de testes com as melhores práticas e também a postura de um QA num time ágil, acreditamos que esse conjunto de ações nos permitem trabalhar de forma mais efetiva com o time."
+  subtype: presentation
+  speakers: [11,12]
+
+#  Rafael de Araujo
+-
+  id: 013
+  title: "Qualidade de código Android"
+  description: "Conhecendo técnicas e ferramentas para garantir a qualidade de código Android. Evite bugs, garanta um padrão de código esteticamente familiarizado à todos da equipe e a integração continua com sucesso do seu projeto."
+  subtype: presentation
+  speakers: [25]
+
+# Luís Felipe Souza
+-
+  id: 014
+  title: "QDD - Qualidade depois do deploy"
+  description: "Monitorar e melhorar a qualidade das nossas aplicações pode fazer toda a diferença no produto final… mesmo depois do deploy das novas features!"
+  subtype: presentation
+  speakers: [10]
+
+#  Rodrigo Botti
+-
+  id: 015
+  title: "Garantindo qualidade em um back-end de microserviços"
+  description: "Você tem confiança de jogar um commit direto em produção no meio do dia?
+  Nesse talk veremos como podemos ter essa flexibilidade e agilidade sem comprometer a qualidade.
+  Mostrarei, utilizando o case da empresa Nextel, como montar um pipeline de integração/entrega contínua com checks de qualidade
+  e como aplicamos esse processo no desenvolvimento de nosso back-end orientado a microserviços"
+  subtype: presentation
+  speakers: [20]
+
+#  Walter e Claudenir
+-
+  id: 016
+  title: "Automatizando seus testes com Robot Framework"
+  description: "Nesta palestra apresentaremos como tal ferramenta auxiliou no processo de automatização dos testes, dado o contexto de Microserviços."
+  subtype: presentation
+  speakers: [26,27]
+
+  #  Juliana Salgado
+-
+  id: 017
+  title: "Alcançando novos usuários através da Acessibilidade"
+  description: "Há aproximadamente 285 milhões de pessoas com dificuldade visual no mundo. Aproximadamente 1 em cada 12 homens (8%) e 1 em cada 200 mulheres (0.5%) sofre de daltonismo. Ainda há diversas deficiências que afetam a população. Você já se perguntou se os serviços são acessíveis a essas pessoas? Nesta palestra, a Product Owner do iFood, Juliana Salgado, vai mostrar da perspectiva de um deficiente visual como é utilizar um produto que não é acessível e mostrar que é possível aumentar o número de usuários e ainda mudar muitas vidas sem grandes esforços!"
+  subtype: presentation
+  speakers: [29]
+
+# Rafael Nóbrega
+-
+  id: 106
+  title: "IoT Testing"
+  description: "Inmetrics (www.inmetrics.com.br) apresenta a plataforma de IoT da Konker (www.konkerlabs.com) e os principais desafios para realizar testes no mundo da Internet das Coisas."
+  subtype: presentation
+  speakers: [30]
+
+#  Elias Nogueira - Talk
+-
+  id: 107
+  title: "Criando uma grid para execução de teste automatizado funcional e e2e"
+  description: "Você já parou para pensar que, além de demorado a execução de testes na interface gráfica tem que cobrir diversas restrições como tipo do dispositivo, tamanho de tela, hardware, etc.?
+Está cansado de executar o mesmo script de teste em diferentes dispositivos, um a uma?
+Venha aprender a como construir um grid de dispositivos reais e/ou emulados para a execução de testes automatizados para Android e iOS em apps híbridas ou nativas."
+  subtype: presentation
+  speakers: [17]
+
+#  Rodrigo Lemes
+-
+  id: 108
+  title: "As reais métricas na real"
+  description: "Falamos muito sobre a aplicação das métricas em produtos, mas como é sua aplicação e uso no dia a dia? Precisamos de mais dados além das métricas para conseguirmos entender nosso usuário e nosso produto? Como pensar e traduzir métricas? Vamos ver todos esses pontos usando o case real do produto SamsungKids e o trabalho real de pensar e usar métricas."
+  subtype: presentation
+  speakers: [31]
